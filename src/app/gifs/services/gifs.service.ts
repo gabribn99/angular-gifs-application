@@ -56,5 +56,4 @@ export class GifsService {
         this.gifList = resp.data;
       });
   }
-
 }
